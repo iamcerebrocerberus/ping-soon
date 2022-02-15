@@ -5,9 +5,6 @@ html {
     --clr-li-red: hsl(354, 100%, 66%);
     --clr-gray: hsl(0, 0%, 59%);
     --clr-vry-blue: hsl(209, 33%, 12%);
-
-    /*fonts*/
-    font-size: 30px;
 }
 
 *,*::before,*::after {
