@@ -1,0 +1,23 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "A frontendmentor.io challenge solved with",
+  "main": "index.js",
+  "scripts": {
+    "autoprefixer": "cat ./styles/style.css | postcss -u autoprefixer > ./styles/prefixedstyle.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcerebrocerberus/ping-soon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcerebrocerberus/ping-soon/issues"
+  },
+  "homepage": "https://github.com/iamcerebrocerberus/ping-soon#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
