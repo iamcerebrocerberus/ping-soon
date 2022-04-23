@@ -148,7 +148,7 @@ form {
 footer {
 	margin-top: 1.7rem;
 }
-footer p {
+footer {
 	font-size: 0.7rem;
 	color: var(--clr-gray);
 }
@@ -237,7 +237,7 @@ footer p {
 		font-size: 1.2rem;
 	}
 
-	footer p {
+	footer {
 		font-size: 0.8rem;
 	}
 }
