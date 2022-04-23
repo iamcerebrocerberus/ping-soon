@@ -145,10 +145,10 @@ form {
 	color: var(--clr-blue);
 }
 
-footer {
+.footer {
 	margin-top: 1.7rem;
 }
-footer {
+.footer {
 	font-size: 0.7rem;
 	color: var(--clr-gray);
 }
@@ -237,7 +237,7 @@ footer {
 		font-size: 1.2rem;
 	}
 
-	footer {
+	.footer {
 		font-size: 0.8rem;
 	}
 }
